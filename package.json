@@ -1,0 +1,24 @@
+{
+  "name": "js-native-blog",
+  "version": "1.0.0",
+  "description": "js native blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KseniiaPrytkova/small-blog.git"
+  },
+  "keywords": [
+    "js",
+    "blog",
+    "javascript"
+  ],
+  "author": "Kseniia Prytkova",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KseniiaPrytkova/small-blog/issues"
+  },
+  "homepage": "https://github.com/KseniiaPrytkova/small-blog#readme"
+}
